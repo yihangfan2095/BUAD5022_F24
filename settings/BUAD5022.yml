@@ -480,5 +480,6 @@ dependencies:
       - amplpy==0.14.0
       - ampltools==0.7.5
       - gilp==2.1.0
+      - gurobipy==11.0.3
       - typing==3.7.4.3
 prefix: C:\Users\mddean\AppData\Local\anaconda3\envs\BUAD5022
